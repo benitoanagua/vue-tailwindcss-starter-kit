@@ -18,7 +18,7 @@ yarn serve
 yarn build
 ```
 
-# Start the component explorer on port 6006:
+### Start the component explorer on port 6006:
 
 ```
 yarn storybook
